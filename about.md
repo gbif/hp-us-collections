@@ -2,10 +2,10 @@
 lang-ref: about
 title: About
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/moss.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+background:  "{{ site.data.images.irpex.src }}"
+imageLicense: "{{ site.data.images.irpex.caption }}"
 height: 70vh
+toc: true
 ---
 
 ## Procris quippe mentior urbes ubi

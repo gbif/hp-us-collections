@@ -1,8 +1,9 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+klass: home
+title: US Collections
+description: "Discover the Untold Stories of Nature's Past: Unveiling America's Scientific Collections"
 background:  "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
