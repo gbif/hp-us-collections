@@ -8,11 +8,11 @@ background:  "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
 cta:
-  - text: Institutions
-    href: /institution/search
-    isPrimary: true
   - text: Specimens
     href: /specimen/search
+    isPrimary: true
+  - text: Institutions
+    href: /institution/search
   - text: About
     href: /about
 composition:
