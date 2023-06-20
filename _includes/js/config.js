@@ -97,7 +97,13 @@ var siteConfig = {
     rootFilter: {
       displayOnNHCPortal: true,
       country: "US"
-    }
+    },
+    mapSettings: {
+      enabled: true,
+      lat: 31.36,
+      lng: -95.02,
+      zoom: 3.5
+    },
   },
   apiKeys: {
     maptiler: "wFxbBf3Tv2e75QQfYOOW",
